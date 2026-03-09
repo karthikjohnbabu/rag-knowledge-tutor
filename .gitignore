@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Vector database
+vectorstore/
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
