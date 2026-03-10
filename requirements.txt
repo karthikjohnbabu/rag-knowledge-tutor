@@ -7,3 +7,7 @@ pypdf
 tiktoken
 streamlit
 python-dotenv
+langchain-experimental
+rank_bm25
+docx2txt
+sentence-transformers

@@ -1,0 +1,21 @@
+DOCS_PATH = "docs"
+VECTORSTORE_PATH = "vectorstore"
+
+CHAT_MODEL = "gpt-4o-mini"
+EMBEDDING_MODEL = "text-embedding-3-small"
+
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 100
+
+TOP_K_RESULTS = 5
+RETRIEVAL_TYPE = "similarity"
+
+DEBUG = True
+STRICT_GROUNDING = True
+
+USE_SEMANTIC_CHUNKING = True
+USE_HYBRID_RETRIEVAL = True
+
+VECTOR_K = 5
+BM25_K = 5
+ENSEMBLE_WEIGHTS = [0.6, 0.4]
